@@ -9,8 +9,9 @@
     ],
     "require": {},
     "autoload": {
-        "files": [
-            "src/Dumper.php"
-        ]
+        "psr-4": {
+            "Algenza\\Simpledump\\": "src/"
+        }
+        
     }
 }

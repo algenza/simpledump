@@ -2,9 +2,9 @@
 
 namespace Algenza\Simpledump;
 
-if (! function_exists('simpleDump')) {
-
-	function simpleDump($var)
+class Dumper
+{
+	function sd($var)
 	{
 		echo "<pre>";
 		print_r($var);
