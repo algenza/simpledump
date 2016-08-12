@@ -1,0 +1,11 @@
+{
+    "name": "algenza/simpledump",
+    "description": "Simple pretty print for variable",
+    "authors": [
+        {
+            "name": "Billy Renyut",
+            "email": "milhanol068@gmail.com"
+        }
+    ],
+    "require": {}
+}
