@@ -7,5 +7,10 @@
             "email": "milhanol068@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/Dumper.php"
+        ]
+    }
 }
