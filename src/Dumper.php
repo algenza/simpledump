@@ -2,9 +2,13 @@
 
 namespace Algenza\Simpledump;
 
-public function simpleDump($var)
+class Dumper
 {
-	echo "<pre>";
-	print_r($var);
-	echo "<pre>";
+	public function simpleDump($var)
+	{
+		echo "<pre>";
+		print_r($var);
+		echo "<pre>";
+	}
 }
+
