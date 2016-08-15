@@ -4,7 +4,7 @@ namespace Algenza\Simpledump;
 
 class Dumper
 {
-	function sd($var)
+	public function sd($var)
 	{
 		echo "<pre>";
 		print_r($var);
