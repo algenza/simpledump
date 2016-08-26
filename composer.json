@@ -13,5 +13,8 @@
             "Algenza\\Simpledump\\": "src/"
         }
         
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
     }
 }

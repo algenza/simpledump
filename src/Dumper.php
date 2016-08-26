@@ -8,7 +8,7 @@ class Dumper
 	{
 		echo "<pre>";
 		print_r($var);
-		echo "<pre>";
+		echo "</pre>";
 	}
 
 }
